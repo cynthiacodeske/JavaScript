@@ -89,3 +89,17 @@ let book = {
         theme3: "identity"
     }
 }
+
+let items = ["Tea", "Pizza", "Smartphone", "Cook"];
+
+for (item in items) {
+    console.log(items[item]);
+}
+
+for (country in countries) {
+    console.log (countries [country]);
+}
+
+for (key in person) {
+    console.log (person[key])
+} // can also use the word property

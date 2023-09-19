@@ -13,7 +13,8 @@ sum (267, 987); // calling a function with arguments
 // write the function that returns the multiplication of three numbers
 
 
-function sum (a, b, c) {
+function sum
+ (a, b, c) {
     console.log (a * b * c);
 }
 

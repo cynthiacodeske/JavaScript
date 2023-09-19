@@ -18,7 +18,7 @@ if (cash >= 11) {
 }
 
 //Grade-classifier
-let score = 50;
+let score = 50
 
 if (score >= 90 && score <= 100) {
     console.log ("A");
